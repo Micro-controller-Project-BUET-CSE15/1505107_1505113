@@ -69,5 +69,5 @@ right - left side moves forward, motors of right side are kept off.
 left - right side moves forward, motors of left side are kept off.
 
 
-<h3>**antenna is not reuired for short range, but we used jumper wires (https://www.techshopbd.com/product-categories/cable/1677/jumper-wire-set-techshop-bangladesh)</h3>
+<h3>**antenna is not required for short range, but we used jumper wires (https://www.techshopbd.com/product-categories/cable/1677/jumper-wire-set-techshop-bangladesh)</h3>
 
